@@ -2,3 +2,5 @@
 
 # calendar
 Set and retrieve holidays
+- Click date to register and remove holiday (Need to setup database connection)
+- mobile phone view support
